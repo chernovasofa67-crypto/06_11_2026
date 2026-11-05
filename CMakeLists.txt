@@ -11,4 +11,10 @@ add_executable(06_11_2026 main.cpp
         Lion.cpp
         Lion.h
         Wolf.cpp
-        Wolf.h)
+        Wolf.h
+        Eagle.cpp
+        Eagle.h
+        Chicken.cpp
+        Chicken.h
+        Duck.cpp
+        Duck.h)
