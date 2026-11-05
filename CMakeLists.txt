@@ -7,4 +7,8 @@ add_executable(06_11_2026 main.cpp
         Animal.cpp
         Animal.h
         Dog.cpp
-        Dog.h)
+        Dog.h
+        Lion.cpp
+        Lion.h
+        Wolf.cpp
+        Wolf.h)
