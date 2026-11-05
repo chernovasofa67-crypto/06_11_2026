@@ -3,4 +3,6 @@ project(06_11_2026)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(06_11_2026 main.cpp)
+add_executable(06_11_2026 main.cpp
+        Animal.cpp
+        Animal.h)
